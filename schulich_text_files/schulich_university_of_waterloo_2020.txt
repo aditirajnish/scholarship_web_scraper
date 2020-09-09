@@ -1,0 +1,26 @@
+Name: Yash Mulki
+Program: Engineering Program
+
+Name: Tina Hanna 
+Program: Engineering Program
+
+Name: Tyler West
+Program: Engineering Program
+
+Name: Dhruv Upadhyay
+Program: Engineering Program
+
+Name: Jacob Mausberg
+Program: Science Program
+
+Name: Tara Ferguson
+Program: Science Program
+
+Name: Anish Aggarwal
+Program: Mathematics Program
+
+Name: Peter Zhu
+Program: Engineering Program
+
+Name: Jason Xiong
+Program: Mathematics Program

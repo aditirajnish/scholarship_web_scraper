@@ -1,0 +1,29 @@
+Name: Adam Gurbin
+Program: Engineering Program
+
+Name: Ethan Lodermeier
+Program: Engineering Program
+
+Name: James Ropotar
+Program: Engineering Program
+
+Name: Rita Jin
+Program: Science Program
+
+Name: Kailey Beckie
+Program: Engineering Program
+
+Name: Romina Mahinpei
+Program: Science Program
+
+Name: Niki McIntosh
+Program: Science Program
+
+Name: Susan Chung
+Program: Science Program
+
+Name: Aidan Eglin
+Program: Science Program
+
+Name: Yosamin Esanullah
+Program: Engineering Program

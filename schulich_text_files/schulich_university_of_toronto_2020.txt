@@ -1,0 +1,29 @@
+Name: Adele Crete-Laurence
+Program: Engineering Program
+
+Name: Azeem Mohammad
+Program: Engineering Program
+
+Name: Aaron D'Mello
+Program: Science Program
+
+Name: Christopher Adolphe
+Program: Engineering Program
+
+Name: Mallory Bond
+Program: Science Program
+
+Name: Matthew Toohey
+Program: Science Program
+
+Name: Aditi Misra
+Program: Engineering Program
+
+Name: Zachary Fine
+Program: Engineering Program
+
+Name: Jessie Ritter
+Program: Science Program
+
+Name: Daniel Hocevar
+Program: Science Program
